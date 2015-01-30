@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArTpvOwY8QUaIUYMS+AmIEwAAAAACAAAAAAAQZgAAAAEAACAAAACjGenV0qXY7jJisotsikwAig1++Z338IrLxC5nGVdc0QAAAAAOgAAAAAIAACAAAAA8ZyD3LL4R5KPbtyh3shZyu1S1VTL5qAyMmwJEd987/hAAAADMM6g3bz2t1Zl2Qya8YF09QAAAAGr6PpXBUXzk07SvGvzFBuuPrBu2RCbLmtG6rgwYSw5Kf8f8/q7Fc6lb3qUqjntcNJwAk+/g8UVME71h87rmJ+U=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.11.140/TwitterService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/02/2013 13:10:10</publishTime>
+    </File>
+    <File Include="bin/Twitter Service.dll">
+      <publishTime>11/13/2014 21:20:15</publishTime>
+    </File>
+    <File Include="bin/Twitter Service.pdb">
+      <publishTime>11/13/2014 21:20:15</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/14/2014 03:02:08</publishTime>
+    </File>
+    <File Include="TwitterService.svc">
+      <publishTime>11/09/2014 12:46:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/14/2014 02:57:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
