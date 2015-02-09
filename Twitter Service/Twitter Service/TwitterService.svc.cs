@@ -20,8 +20,8 @@ namespace Twitter_Service
         private static void _oauth_permissions()
         {
 
-            string oauth_consumer_key = "5ou4iFJyIWZfF4HUbQNcTOn67";
-            string oauth_consumer_secret = "ee8CYJSF6mtsRB55qIcmcxwWWqmJmbsVh5gRmMnR4lck5oudtJ";
+            string oauth_consumer_key = "";
+            string oauth_consumer_secret = "";
 
             /* Step 1: Encode consumer key and secret */
             string encoded_consumer_token = oauth_consumer_key + ":" + oauth_consumer_secret;
